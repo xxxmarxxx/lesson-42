@@ -15,3 +15,5 @@ Karol
 Informacje o uzytkowniku
 Wiek uzytkownika: 17
 Plec uzytkownika: male
+
+![img](./assets/img.png)
